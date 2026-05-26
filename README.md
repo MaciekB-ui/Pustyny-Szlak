@@ -9,10 +9,10 @@ W trakcie gry musisz zarządzać paliwem, stanem pancerza oraz reagować na loso
 
 ## Jak uruchomić grę
 1. Otwórz projekt w Visual Studio Code  
-2. Upewnij się, że masz zainstalowanego Pythona (3.10+)  
-3. Uruchom plik `main.py`  
-4. Kliknij „Run Python File” w prawym górnym rogu VS Code  
-5. Gra uruchomi się w terminalu oraz w oknie Turtle  
+2. Upewnij się, że masz zainstalowanego Pythona (3.11+)  
+3. Otwórz terminal w miejscu gdzie są pliki projektowe
+4. Uruchom grę używając komendy "python main.py"  
+5. Gra uruchomi oraz wyświetli okno Turtle  
 
 Nie są wymagane żadne dodatkowe biblioteki.
 
